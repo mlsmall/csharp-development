@@ -9,14 +9,16 @@ namespace ConsoleApp
     {
         static void Main(string[] args)
         {
-            int age = 23;
-            age = 45;
-            Console.WriteLine(age);
-
-            long bigNumber = 93839473L;
-            Console.WriteLine(bigNumber);
-
+            string name = "Mauro";
+            char letter = 'A';
+            Console.Write("Your name is ");
+            
+            
+            
+            Console.WriteLine(name);
+            Console.WriteLine(letter);
             Console.ReadLine();
+
         }
     }
 }

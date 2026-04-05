@@ -12,3 +12,4 @@ C:\Users\Mauro\Desktop\CSharp\ConsoleApp\obj\Debug\net10.0\refint\ConsoleApp.dll
 C:\Users\Mauro\Desktop\CSharp\ConsoleApp\obj\Debug\net10.0\ConsoleApp.pdb
 C:\Users\Mauro\Desktop\CSharp\ConsoleApp\obj\Debug\net10.0\ConsoleApp.genruntimeconfig.cache
 C:\Users\Mauro\Desktop\CSharp\ConsoleApp\obj\Debug\net10.0\ref\ConsoleApp.dll
+C:\Users\mauro\Desktop\Csharp\ConsoleApp\obj\Debug\net10.0\ConsoleApp.sourcelink.json
